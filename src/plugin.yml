@@ -1,0 +1,5 @@
+name: Lobby
+version: 1.0
+main: de.rovedmc.lobby.Lobby
+commands:
+  setup:
